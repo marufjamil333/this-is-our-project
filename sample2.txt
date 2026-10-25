@@ -1,0 +1,3 @@
+Hello world
+ostsd
+mastering python from zero to hero
